@@ -59,3 +59,7 @@ See each language's README for commands to run every file at once.
 ## Contributing
 
 Issues and pull requests are welcome, especially for additional topics, clearer explanations or bug fixes.
+
+## License
+
+Released under the [MIT License](LICENSE).
